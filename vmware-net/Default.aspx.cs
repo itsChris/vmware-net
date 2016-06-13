@@ -48,7 +48,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -57,7 +57,7 @@ namespace vmware_net
                 //
                 // Regular Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + e.GetType().Name + " with message '" + e.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + e.GetType().Name + " with message '" + e.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 vimClient = null;
                 return vimClient;
@@ -101,7 +101,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -163,7 +163,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -194,7 +194,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -256,7 +256,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -318,7 +318,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -380,7 +380,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -415,7 +415,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -446,7 +446,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -495,7 +495,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -545,7 +545,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -583,7 +583,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
@@ -618,7 +618,7 @@ namespace vmware_net
                 //
                 // VMware Exception occurred
                 //
-                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occured while performing requested operation.";
+                txtErrors.Text = "A server fault of type " + ex.MethodFault.GetType().Name + " with message '" + ex.Message + "' occurred while performing requested operation.";
                 Error_Panel.Visible = true;
                 return null;
             }
